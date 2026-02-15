@@ -125,7 +125,7 @@ const App: React.FC = () => {
       
       <footer className="relative z-10 border-t border-slate-800/50 mt-20 bg-slate-950/80 backdrop-blur-md">
         <div className="max-w-7xl mx-auto px-4 py-8 text-center text-slate-500 text-sm">
-          <p>© {new Date().getFullYear()} VERITAS AI. Universal Verification Engine.</p>
+          <p> {new Date().getFullYear()} VERITAS AI. Universal Verification Engine.</p>
         </div>
       </footer>
     </div>
